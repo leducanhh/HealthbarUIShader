@@ -29,7 +29,7 @@ And to do it, we need 2 textures. I will take example with **Healthbar - Radial 
 
 ![texture_RGB](https://user-images.githubusercontent.com/19847972/37563537-913770de-2ab5-11e8-96b6-364443686a87.png)
 
-2. **Second** is the alpha texture (or black & white texture). This texture will decide **HOW** your healthbar is gonna work. You can find this texture on internet or create it by photoshop:
+2. **Second** is the alpha texture (or black & white texture). This texture will decide **HOW** your healthbar is gonna work. You can find this texture on internet or create it by photoshop (tutorial ![here](https://www.photoshopessentials.com/basics/how-to-draw-gradients-with-the-gradient-tool-in-photoshop/)):
 
 ![texture_alpha](https://user-images.githubusercontent.com/19847972/37563538-9343718e-2ab5-11e8-907a-73512b2c89e3.png)
 
